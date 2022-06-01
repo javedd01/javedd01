@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javedd01
-- 🌱 I’m currently DataScience
+- 🌱 I’m currently learning DataScience
 - 📫 How to reach me:
 - twitter : https://twitter.com/Javedd01
 - instagram: https://www.instagram.com/javedd01
